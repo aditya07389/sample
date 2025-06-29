@@ -10,28 +10,28 @@ const teamMembers: TeamMember[] = [
     name: 'K R Aditya Shastry',
     role: 'Web Developer',
     description: 'Designed and developed both the front-end and back-end components of the application, ensuring seamless integration between the user interface and server-side functionality.',
-    image: 'images/001.jpg'
+    image: '/images/team/001.png'
   },
   {
     id: 2,
     name: 'K R Shrivathsan',
     role: 'ML Model Developer',
     description: 'Developed a deep learning model from scratch, including data preprocessing, model architecture design, training, and evaluation. Additionally, created an intuitive user interface to facilitate smooth input of data and clear visualization of model outputs, ensuring an end-to-end functional pipeline.',
-    image: 'images/002.jpg'
+    image: '/images/team/002.png'
   },
   {
     id: 3,
     name: 'Karthik B',
     role: 'Solar Energy GIS Specialist',
     description: 'Expert in GIS mapping and solar radiation modeling for optimal site selection.',
-    image: 'images/003.jpg'
+    image: '/images/team/003.png'
   },
   {
     id: 4,
     name: 'Kartik J H',
     role: 'Solar Data Analyst',
     description: 'Data analytics to provide accurate insights for solar site selection and the features needed for it.',
-    image: 'images/004.jpg'
+    image: '/images/team/004.png'
   }
 ];
 

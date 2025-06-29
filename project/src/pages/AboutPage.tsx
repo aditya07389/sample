@@ -48,13 +48,13 @@ const AboutPage: React.FC = () => {
                 <div className="flex flex-col md:flex-row">
                   <div className="md:w-32 flex-shrink-0">
                     <div className="h-12 w-12 rounded-full bg-blue-100 dark:bg-blue-900/50 text-blue-600 dark:text-blue-400 flex items-center justify-center text-xl font-bold">
-                      2018
+                      Apr
                     </div>
                   </div>
                   <div className="mt-4 md:mt-0 md:ml-6">
-                    <h3 className="text-xl font-semibold text-gray-900 dark:text-white">The Beginning</h3>
+                    <h3 className="text-xl font-semibold text-gray-900 dark:text-white">Ideation & Dataset Gathering</h3>
                     <p className="mt-2 text-gray-600 dark:text-gray-400">
-                      SolarSite started as a research project at IIT Bombay focused on optimizing solar plant locations using GIS data and machine learning.
+                      The project began as a collaborative initiative to identify optimal locations for solar power plants across India. Initial efforts focused on collecting diverse geospatial datasets — including solar irradiance, elevation, rainfall, land use, and population density — from various national and global sources.
                     </p>
                   </div>
                 </div>
@@ -64,13 +64,13 @@ const AboutPage: React.FC = () => {
                 <div className="flex flex-col md:flex-row">
                   <div className="md:w-32 flex-shrink-0">
                     <div className="h-12 w-12 rounded-full bg-blue-100 dark:bg-blue-900/50 text-blue-600 dark:text-blue-400 flex items-center justify-center text-xl font-bold">
-                      2020
+                      May
                     </div>
                   </div>
                   <div className="mt-4 md:mt-0 md:ml-6">
-                    <h3 className="text-xl font-semibold text-gray-900 dark:text-white">First Pilot</h3>
+                    <h3 className="text-xl font-semibold text-gray-900 dark:text-white">Data Harmonization & Feature Augmentation</h3>
                     <p className="mt-2 text-gray-600 dark:text-gray-400">
-                      Launched our first pilot project with the Gujarat Energy Development Agency, helping identify optimal locations for a 500MW solar plant.
+                      Raw datasets were cleaned, normalized, and harmonized into a unified geospatial grid. APIs were integrated to fetch additional real-world attributes like temperature, humidity, and satellite-based elevation and land cover values, enriching the dataset with meaningful features.
                     </p>
                   </div>
                 </div>
@@ -80,13 +80,13 @@ const AboutPage: React.FC = () => {
                 <div className="flex flex-col md:flex-row">
                   <div className="md:w-32 flex-shrink-0">
                     <div className="h-12 w-12 rounded-full bg-blue-100 dark:bg-blue-900/50 text-blue-600 dark:text-blue-400 flex items-center justify-center text-xl font-bold">
-                      2022
+                      Jun
                     </div>
                   </div>
                   <div className="mt-4 md:mt-0 md:ml-6">
-                    <h3 className="text-xl font-semibold text-gray-900 dark:text-white">Platform Launch</h3>
+                    <h3 className="text-xl font-semibold text-gray-900 dark:text-white">Multi-Criteria Decision Analysis (MCDA) & Suitability Scoring</h3>
                     <p className="mt-2 text-gray-600 dark:text-gray-400">
-                      Officially launched SolarSite as a comprehensive platform with data covering all states and union territories of India.
+                      The project transitioned into its analytical phase, leveraging AHP (Analytic Hierarchy Process) to compute weighted suitability scores. Each location was evaluated based on its environmental and infrastructural viability. Suitability was classified into "High", "Medium", or "Low", enabling actionable insights for site prioritization.
                     </p>
                   </div>
                 </div>
@@ -96,13 +96,13 @@ const AboutPage: React.FC = () => {
                 <div className="flex flex-col md:flex-row">
                   <div className="md:w-32 flex-shrink-0">
                     <div className="h-12 w-12 rounded-full bg-blue-100 dark:bg-blue-900/50 text-blue-600 dark:text-blue-400 flex items-center justify-center text-xl font-bold">
-                      2025
+                      Now
                     </div>
                   </div>
                   <div className="mt-4 md:mt-0 md:ml-6">
-                    <h3 className="text-xl font-semibold text-gray-900 dark:text-white">Today</h3>
+                    <h3 className="text-xl font-semibold text-gray-900 dark:text-white">Deployment-Ready Insights</h3>
                     <p className="mt-2 text-gray-600 dark:text-gray-400">
-                      SolarSite now serves over 200 organizations including government agencies, energy companies, and investors, helping optimize solar installations across India.
+                      The project now offers a ready-to-use CSV of solar site suitability across thousands of geolocations in India — complete with API-verified environmental metrics, infrastructure overlays, and a robust MCDA-based ranking system. It is primed for use by government agencies, energy planners, and solar investors to guide data-driven decision-making.
                     </p>
                   </div>
                 </div>
