@@ -7,30 +7,30 @@ import { TeamMember } from '../../types';
 const teamMembers: TeamMember[] = [
   {
     id: 1,
-    name: 'Rajesh Kumar',
-    role: 'Founder & CEO',
-    description: 'Solar energy enthusiast with 15+ years of experience in renewable energy projects across India.',
+    name: 'K R Aditya Shastry',
+    role: 'Web Developer',
+    description: 'Designed and developed both the front-end and back-end components of the application, ensuring seamless integration between the user interface and server-side functionality.',
     image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=300'
   },
   {
     id: 2,
-    name: 'Priya Sharma',
-    role: 'Chief Data Scientist',
-    description: 'Leading our data analytics team to provide accurate insights for solar site selection.',
-    image: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=300'
+    name: 'K R Shrivathsan',
+    role: 'ML Model Developer',
+    description: 'Developed a deep learning model from scratch, including data preprocessing, model architecture design, training, and evaluation. Additionally, created an intuitive user interface to facilitate smooth input of data and clear visualization of model outputs, ensuring an end-to-end functional pipeline.',
+    image: 'PHOTO-2025-06-29-15-21-07.jpg'
   },
   {
     id: 3,
-    name: 'Vikram Singh',
-    role: 'Head of Engineering',
+    name: 'Karthik B',
+    role: 'Solar Energy GIS Specialist',
     description: 'Expert in GIS mapping and solar radiation modeling for optimal site selection.',
     image: 'https://images.pexels.com/photos/3778603/pexels-photo-3778603.jpeg?auto=compress&cs=tinysrgb&w=300'
   },
   {
     id: 4,
-    name: 'Aisha Patel',
-    role: 'Sustainability Director',
-    description: 'Environmental scientist ensuring our recommendations align with ecological sustainability.',
+    name: 'Kartik J H',
+    role: 'Solar Data Analyst',
+    description: 'Data analytics to provide accurate insights for solar site selection and the features needed for it.',
     image: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=300'
   }
 ];
