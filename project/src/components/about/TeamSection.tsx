@@ -17,7 +17,7 @@ const teamMembers: TeamMember[] = [
     name: "K R Shrivathsan",
     role: "ML Model Developer",
     description:
-      "Developed a deep learning model from scratch, including data preprocessing, model architecture design, training, and evaluation. Additionally, created an intuitive user interface to facilitate smooth input of data and clear visualization of model outputs, ensuring an end-to-end functional pipeline.",
+      "Developed a deep learning model from scratch, including data preprocessing, model architecture design, training, and evaluation.",
     image: "/images/team/002.png",
   },
   {
