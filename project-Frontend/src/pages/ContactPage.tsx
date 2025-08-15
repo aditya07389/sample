@@ -55,9 +55,9 @@ const ContactPage: React.FC = () => {
                     <div className="ml-4">
                       <h3 className="text-lg font-medium text-gray-900 dark:text-white">Email Us</h3>
                       <p className="mt-1 text-gray-600 dark:text-gray-400">
-                        General Inquiries: <a href="mailto:info@solarsite.com" className="text-blue-600 dark:text-blue-400 hover:underline">info@solarsite.com</a><br />
-                        Support: <a href="mailto:support@solarsite.com" className="text-blue-600 dark:text-blue-400 hover:underline">support@solarsite.com</a><br />
-                        Partnerships: <a href="mailto:partners@solarsite.com" className="text-blue-600 dark:text-blue-400 hover:underline">partners@solarsite.com</a>
+                        General Inquiries: <a href="mailto:info@solarsite.com" className="text-blue-600 dark:text-blue-400 hover:underline"></a><br />
+                        Support: <a href="mailto:support@solarsite.com" className="text-blue-600 dark:text-blue-400 hover:underline"></a><br />
+                        Partnerships: <a href="mailto:partners@solarsite.com" className="text-blue-600 dark:text-blue-400 hover:underline"></a>
                       </p>
                     </div>
                   </div>
@@ -71,8 +71,8 @@ const ContactPage: React.FC = () => {
                     <div className="ml-4">
                       <h3 className="text-lg font-medium text-gray-900 dark:text-white">Call Us</h3>
                       <p className="mt-1 text-gray-600 dark:text-gray-400">
-                        Main Office: +91 98765 43210<br />
-                        Customer Support: +91 98765 43211<br />
+                        Main Office: +91 9108287751<br />
+                        Customer Support: +91 74833 80855<br />
                         Hours: Monday-Friday, 9am-6pm IST
                       </p>
                     </div>

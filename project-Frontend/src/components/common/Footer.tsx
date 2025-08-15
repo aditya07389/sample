@@ -54,15 +54,15 @@ const Footer: React.FC = () => {
             <ul className="space-y-2">
               <li className="flex items-center text-gray-600 dark:text-gray-400">
                 <Mail size={16} className="mr-2" />
-                <span>info@solarsite.com</span>
+                <span></span>
               </li>
               <li className="flex items-center text-gray-600 dark:text-gray-400">
                 <Phone size={16} className="mr-2" />
-                <span>+91 98765 43210</span>
+                <span>+91 9108287751</span>
               </li>
               <li className="flex items-start text-gray-600 dark:text-gray-400">
                 <MapPin size={16} className="mr-2 mt-1" />
-                <span>123 Solar Way, Bengaluru, Karnataka, India</span>
+                <span>Bengaluru, Karnataka, India</span>
               </li>
             </ul>
           </div>
